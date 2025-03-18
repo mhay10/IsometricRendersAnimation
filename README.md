@@ -47,12 +47,6 @@ Open a terminal/command prompt and run:
 pip install pyautogui natsort opencv-python
 ```
 
-### **Step 5: Prepare the "Export" Screenshot**
-
-1. In Minecraft, open the IsometricRenders GUI.
-2. Take a screenshot of the **"Export" button** (use `F2` in Minecraft or the Snipping Tool).
-3. Save it as `export.png` in a folder named `imgs` (create this folder in the same place as the scripts).
-
 ---
 
 ## **2. Create Your Animation**
