@@ -44,7 +44,7 @@ If you see version info, it’s installed!
 Open a terminal/command prompt and run:
 
 ```bash
-pip install pyautogui natsort
+pip install pyautogui natsort opencv-python
 ```
 
 ### **Step 5: Prepare the "Export" Screenshot**
